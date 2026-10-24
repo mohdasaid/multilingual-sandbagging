@@ -1,0 +1,9 @@
+model,pool,total_splits,complete_splits,ordered_splits
+12B,last,20,20,20
+12B,mean,20,18,16
+AfroLlama,last,20,20,20
+AfroLlama,mean,20,12,9
+E2B,last,20,18,18
+E2B,mean,20,17,15
+E4B,last,20,19,19
+E4B,mean,20,18,16

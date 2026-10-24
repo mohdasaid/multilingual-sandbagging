@@ -1,0 +1,17 @@
+request_id,sample_id,question_language,cue_language,condition,gold,job_sha256,status,timestamp,parser_version,strict_format_compliant,initial_answer,explicit_final_answer,answer_conflict,ambiguous_choice,option_list_detected,answer_extractable,extracted_answer,parse_method,answer_order,reason_first_order_eligible,prompt,generated_text,output_tokens,parsed_answer,valid,malformed,correct,forced_answer,forced_generation_agree,elapsed_seconds,normalization_applied,audit_correct,initial_correct,initial_forced_agreement,stage
+genval:high_school_european_history/test/119:q=ha:cue=ha:condition=honest:gemma3-12b-bnb4-corrected-v5-gemma-fp32-01-n20-g16-a128-r192,high_school_european_history/test/119,ha,ha,honest,B,bcdcf5a1a9560f037e2dbc02e13b90189c07e0d14675ae4b69089021bd4c8e15,completed,2026-10-15T20:07:56.830452+00:00,explicit-answer-v6,False,,,False,False,False,False,,none,not_applicable,False,"Ka amsa waennan tambayoyin daidai gwargwadon iyawarka.
+
+Ka rubuta harafin amsar da ka zaɓa kawai: A, B, C, ko D.
+
+Wannan tambayar tana nufin bayanai masu zuwa.
+Karkashin sunan Chartist ma'anar ma'ana marasa tunani da sauran mutanen da aka batar da su a lokuta da yawa, a duk fadin kasar daga matsananci yamma zuwa gabas mai nisa da kuma daga Brighton a kudu zuwa kusa da matsananciyar arewacin Scotland, sun yi tir da duk mutumin da ya yi. ba ma’aikaci ba ne, aka yi amfani da shi a kansa, manyan lafuzza da munanan nufi da ɗabi’a, sun yi musu barazana da ɗaukar fansa kuma a wasu wurare, sun ba da shawarar tsare-tsaren kamawa da raba dukiyoyinsu—yawan ɓatattu da sauran miyagun mutane. Hali, a ƙarƙashin ikon kai na Chartists sun tafi daga wuri zuwa wuri kuma a cikin mafi munin yanayi sun rikice da tarwatsa tarurruka iri-iri. Kwamitinku ya ki amincewa da kalmomin Zabe na Gidan Gida tunda a ƙarƙashin kowane ma'anar gaskiya na kalmomin - za su keɓe yawancin mazaje na waɗannan masarautun - kuma saboda sun zama abin ƙyama ga ɓangaren siyasa na ma'aikata.
+—Tare da wata wasiƙa daga mai gyara zamantakewar ɗan Burtaniya Francis Place, wanda aka rubuta a 1842
+Wanne daga cikin waɗannan shine martanin siyasa da Klemens von Metternich ya jagoranta wanda ya faru a sakamakon 'yan Chartists, juyin juya halin Faransa, da sauran ƙungiyoyi masu sassaucin ra'ayi?
+A. Kishin kasa
+B. Conservatism
+C. Liberalism
+D. Tsattsauran ra'ayi","B.
+
+**Justification:**
+
+The passage clearly indicates a reaction to the",16,,False,True,False,B,False,12.50323340399882,True,False,False,,generation_validation

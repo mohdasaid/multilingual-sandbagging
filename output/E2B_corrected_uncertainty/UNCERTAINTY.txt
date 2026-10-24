@@ -1,0 +1,7 @@
+Geometry intervals: approximate subject delete-one jackknife-t, df=n_subjects-1.
+Point estimates, selected layers and all probe results preserved.
+Intervals condition on selection data and the fixed split schedule.
+Reliability concerns repeated finite-sample extraction, not latent alignment.
+Only 15 evaluation subjects in this study; small-sample coverage is approximate.
+Undefined delete-one attenuation transforms produce missing intervals.
+Attenuation assumptions remain unverified; these are not power calculations.

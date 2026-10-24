@@ -1,0 +1,1 @@
+Versioned analysis of saved outputs. Original fields retained. Strict compliance, answer extraction, conflict and order are separate. Text-before-answer is an ordering check, not verification of reasoning quality. All reason-first analyses remain exploratory. No generation rerun.

@@ -1,0 +1,45 @@
+{
+  "dataset": "CohereLabs/Global-MMLU",
+  "revision": "0e619dbeb34206cd48705a1a0ea7fb21cae09993",
+  "seed": 42,
+  "source_files": {
+    "en": {
+      "path": "/home/muhammad/Documents/ChatGPT/personal page/multilingual-evaluation-pilot/data/en-test.parquet",
+      "sha256": "5baec81ba97243728cc9557b2cba2f03aaeedf8232473db9f20cf995c6b0a1a9"
+    },
+    "ha": {
+      "path": "/home/muhammad/Documents/ChatGPT/personal page/multilingual-evaluation-pilot/data/ha-test.parquet",
+      "sha256": "b17d14b2fe9bf848935145ad49db494850930f23627880ce14d0f88e09e84766"
+    }
+  },
+  "matched_source_items": 14042,
+  "selection": "Sort all matched sample IDs, shuffle once with Python random.Random(42), reserve positions 0:20 for development and 20:120 for the prior pilot, then select positions 120:520 for confirmation.",
+  "confirmatory_items": 400,
+  "overlap_with_original_development": 0,
+  "overlap_with_original_pilot": 0,
+  "category_counts": {
+    "Business": 28,
+    "Humanities": 115,
+    "Medical": 50,
+    "Other": 26,
+    "STEM": 80,
+    "Social Sciences": 101
+  },
+  "answer_counts": {
+    "A": 101,
+    "B": 82,
+    "C": 116,
+    "D": 101
+  },
+  "review_status": "Unreviewed. Hausa source text is copied into *_ha_reviewed fields; a fluent reviewer must approve or exclude every row before model evaluation.",
+  "outputs": {
+    "review_csv": {
+      "path": "/home/muhammad/Documents/ChatGPT/personal page/multilingual-evaluation-pilot/confirmatory-data/confirmatory_review_400.csv",
+      "sha256": "25d9f226e82482da0dac824957bcd3c20de6f1d2bf276b0ff0ac7ef999d0225d"
+    },
+    "ids_csv": {
+      "path": "/home/muhammad/Documents/ChatGPT/personal page/multilingual-evaluation-pilot/confirmatory-data/confirmatory_ids_400.csv",
+      "sha256": "fb94b264fe748c6dac26fe20f892c007f936b51c4a2bb0e968f1c3d493641d20"
+    }
+  }
+}

@@ -1,0 +1,361 @@
+language,pool,subject,pair_id,pair_accuracy,probe_layer
+eng,last,The phone network today,ES005,1.0,24
+eng,last,The phone network today,ES006,1.0,24
+eng,last,The phone network today,ES007,1.0,24
+eng,last,The phone network today,ES008,1.0,24
+eng,last,A wedding you attended,ES017,1.0,24
+eng,last,A wedding you attended,ES018,1.0,24
+eng,last,A wedding you attended,ES019,1.0,24
+eng,last,A wedding you attended,ES020,1.0,24
+eng,last,A visit to a clinic or hospital,ES029,1.0,24
+eng,last,A visit to a clinic or hospital,ES030,1.0,24
+eng,last,A visit to a clinic or hospital,ES031,1.0,24
+eng,last,A visit to a clinic or hospital,ES032,1.0,24
+eng,last,A football match,ES033,1.0,24
+eng,last,A football match,ES034,0.5,24
+eng,last,A football match,ES035,1.0,24
+eng,last,A football match,ES036,1.0,24
+eng,last,Electricity supply,ES037,1.0,24
+eng,last,Electricity supply,ES038,1.0,24
+eng,last,Electricity supply,ES039,1.0,24
+eng,last,Electricity supply,ES040,1.0,24
+eng,last,A neighbour,ES045,1.0,24
+eng,last,A neighbour,ES046,1.0,24
+eng,last,A neighbour,ES047,1.0,24
+eng,last,A neighbour,ES048,1.0,24
+eng,last,Traffic in town,ES049,1.0,24
+eng,last,Traffic in town,ES050,1.0,24
+eng,last,Traffic in town,ES051,1.0,24
+eng,last,Traffic in town,ES052,1.0,24
+eng,last,A phone you bought,ES053,1.0,24
+eng,last,A phone you bought,ES054,1.0,24
+eng,last,A phone you bought,ES055,1.0,24
+eng,last,A phone you bought,ES056,1.0,24
+eng,last,A friend's visit,ES061,0.5,24
+eng,last,A friend's visit,ES062,1.0,24
+eng,last,A friend's visit,ES063,1.0,24
+eng,last,A friend's visit,ES064,1.0,24
+eng,last,Your work or job,ES065,1.0,24
+eng,last,Your work or job,ES066,1.0,24
+eng,last,Your work or job,ES067,1.0,24
+eng,last,Your work or job,ES068,1.0,24
+eng,last,A tailor's work,ES069,1.0,24
+eng,last,A tailor's work,ES070,1.0,24
+eng,last,A tailor's work,ES071,1.0,24
+eng,last,A tailor's work,ES072,1.0,24
+eng,last,The cost of transport,ES073,1.0,24
+eng,last,The cost of transport,ES074,1.0,24
+eng,last,The cost of transport,ES075,1.0,24
+eng,last,The cost of transport,ES076,1.0,24
+eng,last,Music you heard,ES081,1.0,24
+eng,last,Music you heard,ES082,1.0,24
+eng,last,Music you heard,ES083,1.0,24
+eng,last,Music you heard,ES084,1.0,24
+eng,last,Service at a shop,ES085,1.0,24
+eng,last,Service at a shop,ES086,1.0,24
+eng,last,Service at a shop,ES087,1.0,24
+eng,last,Service at a shop,ES088,1.0,24
+eng,last,Learning something new,ES097,0.5,24
+eng,last,Learning something new,ES098,1.0,24
+eng,last,Learning something new,ES099,1.0,24
+eng,last,Learning something new,ES100,1.0,24
+eng,mean,The phone network today,ES005,1.0,16
+eng,mean,The phone network today,ES006,1.0,16
+eng,mean,The phone network today,ES007,1.0,16
+eng,mean,The phone network today,ES008,1.0,16
+eng,mean,A wedding you attended,ES017,1.0,16
+eng,mean,A wedding you attended,ES018,1.0,16
+eng,mean,A wedding you attended,ES019,1.0,16
+eng,mean,A wedding you attended,ES020,1.0,16
+eng,mean,A visit to a clinic or hospital,ES029,1.0,16
+eng,mean,A visit to a clinic or hospital,ES030,1.0,16
+eng,mean,A visit to a clinic or hospital,ES031,1.0,16
+eng,mean,A visit to a clinic or hospital,ES032,1.0,16
+eng,mean,A football match,ES033,1.0,16
+eng,mean,A football match,ES034,1.0,16
+eng,mean,A football match,ES035,1.0,16
+eng,mean,A football match,ES036,1.0,16
+eng,mean,Electricity supply,ES037,1.0,16
+eng,mean,Electricity supply,ES038,1.0,16
+eng,mean,Electricity supply,ES039,1.0,16
+eng,mean,Electricity supply,ES040,1.0,16
+eng,mean,A neighbour,ES045,1.0,16
+eng,mean,A neighbour,ES046,1.0,16
+eng,mean,A neighbour,ES047,1.0,16
+eng,mean,A neighbour,ES048,1.0,16
+eng,mean,Traffic in town,ES049,1.0,16
+eng,mean,Traffic in town,ES050,1.0,16
+eng,mean,Traffic in town,ES051,0.5,16
+eng,mean,Traffic in town,ES052,1.0,16
+eng,mean,A phone you bought,ES053,1.0,16
+eng,mean,A phone you bought,ES054,1.0,16
+eng,mean,A phone you bought,ES055,1.0,16
+eng,mean,A phone you bought,ES056,1.0,16
+eng,mean,A friend's visit,ES061,1.0,16
+eng,mean,A friend's visit,ES062,1.0,16
+eng,mean,A friend's visit,ES063,1.0,16
+eng,mean,A friend's visit,ES064,1.0,16
+eng,mean,Your work or job,ES065,1.0,16
+eng,mean,Your work or job,ES066,1.0,16
+eng,mean,Your work or job,ES067,1.0,16
+eng,mean,Your work or job,ES068,1.0,16
+eng,mean,A tailor's work,ES069,1.0,16
+eng,mean,A tailor's work,ES070,1.0,16
+eng,mean,A tailor's work,ES071,1.0,16
+eng,mean,A tailor's work,ES072,1.0,16
+eng,mean,The cost of transport,ES073,1.0,16
+eng,mean,The cost of transport,ES074,1.0,16
+eng,mean,The cost of transport,ES075,0.5,16
+eng,mean,The cost of transport,ES076,1.0,16
+eng,mean,Music you heard,ES081,1.0,16
+eng,mean,Music you heard,ES082,1.0,16
+eng,mean,Music you heard,ES083,1.0,16
+eng,mean,Music you heard,ES084,1.0,16
+eng,mean,Service at a shop,ES085,1.0,16
+eng,mean,Service at a shop,ES086,0.5,16
+eng,mean,Service at a shop,ES087,1.0,16
+eng,mean,Service at a shop,ES088,1.0,16
+eng,mean,Learning something new,ES097,0.5,16
+eng,mean,Learning something new,ES098,1.0,16
+eng,mean,Learning something new,ES099,0.5,16
+eng,mean,Learning something new,ES100,1.0,16
+hau,last,The phone network today,S005,0.5,14
+hau,last,The phone network today,S006,0.5,14
+hau,last,The phone network today,S007,1.0,14
+hau,last,The phone network today,S008,0.5,14
+hau,last,A wedding you attended,S017,1.0,14
+hau,last,A wedding you attended,S018,0.5,14
+hau,last,A wedding you attended,S019,1.0,14
+hau,last,A wedding you attended,S020,1.0,14
+hau,last,A visit to a clinic or hospital,S029,0.5,14
+hau,last,A visit to a clinic or hospital,S030,1.0,14
+hau,last,A visit to a clinic or hospital,S031,0.5,14
+hau,last,A visit to a clinic or hospital,S032,1.0,14
+hau,last,A football match,S033,1.0,14
+hau,last,A football match,S034,1.0,14
+hau,last,A football match,S035,1.0,14
+hau,last,A football match,S036,0.5,14
+hau,last,Electricity supply,S037,1.0,14
+hau,last,Electricity supply,S038,1.0,14
+hau,last,Electricity supply,S039,1.0,14
+hau,last,Electricity supply,S040,1.0,14
+hau,last,A neighbour,S045,1.0,14
+hau,last,A neighbour,S046,0.5,14
+hau,last,A neighbour,S047,1.0,14
+hau,last,A neighbour,S048,1.0,14
+hau,last,Traffic in town,S049,1.0,14
+hau,last,Traffic in town,S050,0.5,14
+hau,last,Traffic in town,S051,0.5,14
+hau,last,Traffic in town,S052,1.0,14
+hau,last,A phone you bought,S053,1.0,14
+hau,last,A phone you bought,S054,1.0,14
+hau,last,A phone you bought,S055,0.5,14
+hau,last,A phone you bought,S056,1.0,14
+hau,last,A friend's visit,S061,0.5,14
+hau,last,A friend's visit,S062,0.5,14
+hau,last,A friend's visit,S063,1.0,14
+hau,last,A friend's visit,S064,1.0,14
+hau,last,Your work or job,S065,0.5,14
+hau,last,Your work or job,S066,1.0,14
+hau,last,Your work or job,S067,1.0,14
+hau,last,Your work or job,S068,1.0,14
+hau,last,A tailor's work,S069,1.0,14
+hau,last,A tailor's work,S070,1.0,14
+hau,last,A tailor's work,S071,1.0,14
+hau,last,A tailor's work,S072,1.0,14
+hau,last,The cost of transport,S073,1.0,14
+hau,last,The cost of transport,S074,1.0,14
+hau,last,The cost of transport,S075,1.0,14
+hau,last,The cost of transport,S076,0.5,14
+hau,last,Music you heard,S081,1.0,14
+hau,last,Music you heard,S082,1.0,14
+hau,last,Music you heard,S083,1.0,14
+hau,last,Music you heard,S084,1.0,14
+hau,last,Service at a shop,S085,0.5,14
+hau,last,Service at a shop,S086,0.0,14
+hau,last,Service at a shop,S087,1.0,14
+hau,last,Service at a shop,S088,1.0,14
+hau,last,Learning something new,S097,1.0,14
+hau,last,Learning something new,S098,1.0,14
+hau,last,Learning something new,S099,1.0,14
+hau,last,Learning something new,S100,0.0,14
+hau,mean,The phone network today,S005,0.5,26
+hau,mean,The phone network today,S006,1.0,26
+hau,mean,The phone network today,S007,1.0,26
+hau,mean,The phone network today,S008,1.0,26
+hau,mean,A wedding you attended,S017,1.0,26
+hau,mean,A wedding you attended,S018,0.5,26
+hau,mean,A wedding you attended,S019,1.0,26
+hau,mean,A wedding you attended,S020,1.0,26
+hau,mean,A visit to a clinic or hospital,S029,0.0,26
+hau,mean,A visit to a clinic or hospital,S030,1.0,26
+hau,mean,A visit to a clinic or hospital,S031,1.0,26
+hau,mean,A visit to a clinic or hospital,S032,1.0,26
+hau,mean,A football match,S033,1.0,26
+hau,mean,A football match,S034,1.0,26
+hau,mean,A football match,S035,1.0,26
+hau,mean,A football match,S036,1.0,26
+hau,mean,Electricity supply,S037,1.0,26
+hau,mean,Electricity supply,S038,1.0,26
+hau,mean,Electricity supply,S039,1.0,26
+hau,mean,Electricity supply,S040,0.5,26
+hau,mean,A neighbour,S045,0.5,26
+hau,mean,A neighbour,S046,0.5,26
+hau,mean,A neighbour,S047,1.0,26
+hau,mean,A neighbour,S048,0.5,26
+hau,mean,Traffic in town,S049,0.5,26
+hau,mean,Traffic in town,S050,0.5,26
+hau,mean,Traffic in town,S051,1.0,26
+hau,mean,Traffic in town,S052,1.0,26
+hau,mean,A phone you bought,S053,0.5,26
+hau,mean,A phone you bought,S054,1.0,26
+hau,mean,A phone you bought,S055,1.0,26
+hau,mean,A phone you bought,S056,1.0,26
+hau,mean,A friend's visit,S061,0.5,26
+hau,mean,A friend's visit,S062,1.0,26
+hau,mean,A friend's visit,S063,1.0,26
+hau,mean,A friend's visit,S064,1.0,26
+hau,mean,Your work or job,S065,0.5,26
+hau,mean,Your work or job,S066,0.5,26
+hau,mean,Your work or job,S067,1.0,26
+hau,mean,Your work or job,S068,1.0,26
+hau,mean,A tailor's work,S069,1.0,26
+hau,mean,A tailor's work,S070,1.0,26
+hau,mean,A tailor's work,S071,1.0,26
+hau,mean,A tailor's work,S072,1.0,26
+hau,mean,The cost of transport,S073,0.5,26
+hau,mean,The cost of transport,S074,0.5,26
+hau,mean,The cost of transport,S075,0.5,26
+hau,mean,The cost of transport,S076,0.5,26
+hau,mean,Music you heard,S081,1.0,26
+hau,mean,Music you heard,S082,1.0,26
+hau,mean,Music you heard,S083,1.0,26
+hau,mean,Music you heard,S084,1.0,26
+hau,mean,Service at a shop,S085,0.5,26
+hau,mean,Service at a shop,S086,0.5,26
+hau,mean,Service at a shop,S087,1.0,26
+hau,mean,Service at a shop,S088,1.0,26
+hau,mean,Learning something new,S097,1.0,26
+hau,mean,Learning something new,S098,0.5,26
+hau,mean,Learning something new,S099,0.5,26
+hau,mean,Learning something new,S100,0.5,26
+yor,last,The phone network today,S005,0.5,27
+yor,last,The phone network today,S006,1.0,27
+yor,last,The phone network today,S007,1.0,27
+yor,last,The phone network today,S008,0.5,27
+yor,last,A wedding you attended,S017,0.5,27
+yor,last,A wedding you attended,S018,0.5,27
+yor,last,A wedding you attended,S019,1.0,27
+yor,last,A wedding you attended,S020,0.5,27
+yor,last,A visit to a clinic or hospital,S029,1.0,27
+yor,last,A visit to a clinic or hospital,S030,0.5,27
+yor,last,A visit to a clinic or hospital,S031,1.0,27
+yor,last,A visit to a clinic or hospital,S032,1.0,27
+yor,last,A football match,S033,1.0,27
+yor,last,A football match,S034,1.0,27
+yor,last,A football match,S035,0.5,27
+yor,last,A football match,S036,1.0,27
+yor,last,Electricity supply,S037,1.0,27
+yor,last,Electricity supply,S038,1.0,27
+yor,last,Electricity supply,S039,0.5,27
+yor,last,Electricity supply,S040,0.5,27
+yor,last,A neighbour,S045,0.5,27
+yor,last,A neighbour,S046,1.0,27
+yor,last,A neighbour,S047,1.0,27
+yor,last,A neighbour,S048,1.0,27
+yor,last,Traffic in town,S049,1.0,27
+yor,last,Traffic in town,S050,1.0,27
+yor,last,Traffic in town,S051,0.5,27
+yor,last,Traffic in town,S052,1.0,27
+yor,last,A phone you bought,S053,1.0,27
+yor,last,A phone you bought,S054,0.5,27
+yor,last,A phone you bought,S055,0.0,27
+yor,last,A phone you bought,S056,0.5,27
+yor,last,A friend's visit,S061,1.0,27
+yor,last,A friend's visit,S062,0.5,27
+yor,last,A friend's visit,S063,0.5,27
+yor,last,A friend's visit,S064,0.5,27
+yor,last,Your work or job,S065,1.0,27
+yor,last,Your work or job,S066,1.0,27
+yor,last,Your work or job,S067,0.5,27
+yor,last,Your work or job,S068,0.5,27
+yor,last,A tailor's work,S069,0.5,27
+yor,last,A tailor's work,S070,0.5,27
+yor,last,A tailor's work,S071,0.5,27
+yor,last,A tailor's work,S072,0.5,27
+yor,last,The cost of transport,S073,0.0,27
+yor,last,The cost of transport,S074,1.0,27
+yor,last,The cost of transport,S075,0.5,27
+yor,last,The cost of transport,S076,0.5,27
+yor,last,Music you heard,S081,0.0,27
+yor,last,Music you heard,S082,0.5,27
+yor,last,Music you heard,S083,0.5,27
+yor,last,Music you heard,S084,0.5,27
+yor,last,Service at a shop,S085,0.5,27
+yor,last,Service at a shop,S086,1.0,27
+yor,last,Service at a shop,S087,0.5,27
+yor,last,Service at a shop,S088,1.0,27
+yor,last,Learning something new,S097,1.0,27
+yor,last,Learning something new,S098,0.5,27
+yor,last,Learning something new,S099,0.5,27
+yor,last,Learning something new,S100,1.0,27
+yor,mean,The phone network today,S005,1.0,18
+yor,mean,The phone network today,S006,0.5,18
+yor,mean,The phone network today,S007,1.0,18
+yor,mean,The phone network today,S008,1.0,18
+yor,mean,A wedding you attended,S017,0.0,18
+yor,mean,A wedding you attended,S018,0.5,18
+yor,mean,A wedding you attended,S019,1.0,18
+yor,mean,A wedding you attended,S020,1.0,18
+yor,mean,A visit to a clinic or hospital,S029,1.0,18
+yor,mean,A visit to a clinic or hospital,S030,0.5,18
+yor,mean,A visit to a clinic or hospital,S031,1.0,18
+yor,mean,A visit to a clinic or hospital,S032,1.0,18
+yor,mean,A football match,S033,1.0,18
+yor,mean,A football match,S034,1.0,18
+yor,mean,A football match,S035,1.0,18
+yor,mean,A football match,S036,0.5,18
+yor,mean,Electricity supply,S037,0.5,18
+yor,mean,Electricity supply,S038,0.5,18
+yor,mean,Electricity supply,S039,0.5,18
+yor,mean,Electricity supply,S040,1.0,18
+yor,mean,A neighbour,S045,0.5,18
+yor,mean,A neighbour,S046,0.5,18
+yor,mean,A neighbour,S047,0.5,18
+yor,mean,A neighbour,S048,0.5,18
+yor,mean,Traffic in town,S049,0.5,18
+yor,mean,Traffic in town,S050,0.5,18
+yor,mean,Traffic in town,S051,0.5,18
+yor,mean,Traffic in town,S052,0.5,18
+yor,mean,A phone you bought,S053,1.0,18
+yor,mean,A phone you bought,S054,0.5,18
+yor,mean,A phone you bought,S055,1.0,18
+yor,mean,A phone you bought,S056,0.5,18
+yor,mean,A friend's visit,S061,1.0,18
+yor,mean,A friend's visit,S062,0.5,18
+yor,mean,A friend's visit,S063,0.0,18
+yor,mean,A friend's visit,S064,1.0,18
+yor,mean,Your work or job,S065,0.0,18
+yor,mean,Your work or job,S066,1.0,18
+yor,mean,Your work or job,S067,0.5,18
+yor,mean,Your work or job,S068,0.5,18
+yor,mean,A tailor's work,S069,0.5,18
+yor,mean,A tailor's work,S070,0.5,18
+yor,mean,A tailor's work,S071,0.5,18
+yor,mean,A tailor's work,S072,1.0,18
+yor,mean,The cost of transport,S073,0.5,18
+yor,mean,The cost of transport,S074,0.0,18
+yor,mean,The cost of transport,S075,1.0,18
+yor,mean,The cost of transport,S076,0.5,18
+yor,mean,Music you heard,S081,1.0,18
+yor,mean,Music you heard,S082,1.0,18
+yor,mean,Music you heard,S083,0.5,18
+yor,mean,Music you heard,S084,0.5,18
+yor,mean,Service at a shop,S085,0.5,18
+yor,mean,Service at a shop,S086,0.5,18
+yor,mean,Service at a shop,S087,0.5,18
+yor,mean,Service at a shop,S088,0.5,18
+yor,mean,Learning something new,S097,0.5,18
+yor,mean,Learning something new,S098,0.5,18
+yor,mean,Learning something new,S099,0.0,18
+yor,mean,Learning something new,S100,1.0,18

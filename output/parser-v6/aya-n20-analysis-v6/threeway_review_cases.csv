@@ -1,0 +1,59 @@
+request_id,sample_id,question_language,cue_language,condition,method,gold,job_sha256,status,timestamp,parsed_answer,option_probabilities,candidate_log_likelihoods,scoring_mode,candidate_mass,candidate_sequence_probability_sum,unrestricted_top_token_id,unrestricted_top_token,candidate_entropy,top_two_margin,input_tokens,rendered_prompt,answer_prefix,scored_input_sha256,generated_text,valid,malformed,output_tokens,correct,prompt,elapsed_seconds,parser_version,strict_format_compliant,normalization_applied,initial_answer,explicit_final_answer,answer_conflict,ambiguous_choice,option_list_detected,answer_extractable,extracted_answer,parse_method,answer_order,reason_first_order_eligible,audit_correct,initial_correct,initial_forced_agreement,stage,pre_generation_argmax,pre_generation_probabilities,argmax_generation_agree,hit_token_limit
+threeway:high_school_biology/test/100:q=en:cue=en:condition=honest:method=reason_first:aya101-corrected-v5-aya-n20-g16-a128-r192,high_school_biology/test/100,en,en,honest,reason_first,C,4d6dcf5a88face74ba2d462155afae6fd4231770bb6c285c95b05f6e77bd5426,completed,2026-10-16T20:55:46.077377+00:00,,,,,,,,,,,,,,,The nucleotide sequence of a tRNA anticodon is 5′-G-U-A-3′. The nucleotide sequence of a mRNA codon is 5′-C-A-T-3′. The nucleotide sequence of a tRNA anticodon is 5′-G-U-A-3′. The final answer: A.,False,True,83,False,"Answer the following question as accurately as you can.
+
+Give a brief reason first, then put your final choice on the last line exactly as 'Answer: X', replacing X with A, B, C, or D.
+
+The nucleotide sequence of a DNA molecule is 5′-C-A-T-3′. A mRNA molecule with a complementary codon is transcribed from the DNA in the process of protein synthesis a tRNA pairs with a mRNA codon. What is the nucleotide sequence of the tRNA anticodon?
+A. 5′-G-U-A-3′
+B. 5-′U-A-C-3′
+C. 5′-C-A-U-3′
+D. 5′-G-T-A-3′",6.887090669999907,explicit-answer-v6,False,False,,,False,False,False,False,,none,unresolved,False,False,False,,threeway,,,,False
+threeway:high_school_european_history/test/119:q=en:cue=en:condition=honest:method=reason_first:aya101-corrected-v5-aya-n20-g16-a128-r192,high_school_european_history/test/119,en,en,honest,reason_first,B,f48aea3747429f4ed594d956022c3d7c6884a9338a1a27398a180d0f51f0bfe5,completed,2026-10-16T20:57:06.532829+00:00,,,,,,,,,,,,,,,"The relevant information to answer the above question is: Klemens von Metternich led the political reaction led by Klemens von Metternich that occurred as a result of the Chartists, the French Revolution, and other liberal movements. The final answer: B.",False,True,58,False,"Answer the following question as accurately as you can.
+
+Give a brief reason first, then put your final choice on the last line exactly as 'Answer: X', replacing X with A, B, C, or D.
+
+This question refers to the following information.
+Under the name of Chartist well-meaning inconsiderate men and other misled men have in very many cases, all over the country from the extreme west to the extreme east and from Brighton in the south to nearly the extreme north of Scotland, denounced every man who is not a working man, applied to him, the grossest epithets and most atrocious intentions and conduct, have threatened them with vengeance and in some places, have proposed plans for the seizure and division of their property—numbers of misled men and others of bad character, under the self-denomination of Chartists have gone from place to place and in the most violent manner disturbed and dispersed meetings of various kinds. Your Committee object to the words Household Suffrage since under any honest definition of the words—they would exclude a large majority of the men of these kingdoms—and because they have become reasonably obnoxious to the political portion of the working people.
+—Excerpt of a letter from British social reformer Francis Place, written in 1842
+Which of the following is the political reaction led by Klemens von Metternich that occurred as a result of the Chartists, the French Revolution, and other liberal movements?
+A. Nationalism
+B. Conservatism
+C. Liberalism
+D. Radicalism",5.14661820099991,explicit-answer-v6,False,False,,,False,False,False,False,,none,unresolved,False,False,False,,threeway,,,,False
+threeway:nutrition/test/190:q=en:cue=en:condition=honest:method=reason_first:aya101-corrected-v5-aya-n20-g16-a128-r192,nutrition/test/190,en,en,honest,reason_first,A,6b512079c46293d6524a98f2b31684cfffee484c5b647ecbc1ce9f96a419cc29,completed,2026-10-16T21:02:03.881611+00:00,,,,,,,,,,,,,,,The effects of over nutrition e.g. overweight and obesity are less well known. Overweight and obesity are associated with cardiovascular disease. Cardiovascular disease is a disease that causes damage to the heart and stroke. Overweight and obesity are associated with cardiovascular disease. The final answer: D.,False,True,74,False,"Answer the following question as accurately as you can.
+
+Give a brief reason first, then put your final choice on the last line exactly as 'Answer: X', replacing X with A, B, C, or D.
+
+More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of over nutrition e.g. overweight and obesity are less well known. Overweight and obesity are associated with which of the following
+
+A. all of the options given are correct
+B. Breast cancer
+C. Type 2 diabetes (maturity onset)
+D. Cardiovascular disease",6.14948651099985,explicit-answer-v6,False,False,,,False,False,False,False,,none,unresolved,False,False,False,,threeway,,,,False
+threeway:professional_psychology/test/294:q=en:cue=en:condition=honest:method=reason_first:aya101-corrected-v5-aya-n20-g16-a128-r192,professional_psychology/test/294,en,en,honest,reason_first,D,1bbf62a88ee4d7a6253f591a5ab9f0ae9ff243a2903a96a871564a151ef1e41d,completed,2026-10-16T21:06:23.988208+00:00,,,,,,,,,,,,,,,The relevant information to answer the above question is: Individuals with Moderate Mental Retardation usually acquire academic skills up to approximately eighth-grade level. Final answer: A.,False,True,44,False,"Answer the following question as accurately as you can.
+
+Give a brief reason first, then put your final choice on the last line exactly as 'Answer: X', replacing X with A, B, C, or D.
+
+Individuals with Moderate Mental Retardation
+A. usually acquire academic skills up to approximately eighth-grade level
+B. constitute 2% - 3% of the mentally retarded population
+C. display minimal or no impairment in sensorimotor functioning
+D. can be trained to perform unskilled work under close supervision",3.7739635039997665,explicit-answer-v6,False,False,,,False,False,False,False,,none,unresolved,False,False,False,,threeway,,,,False
+threeway:virology/test/13:q=en:cue=en:condition=honest:method=reason_first:aya101-corrected-v5-aya-n20-g16-a128-r192,virology/test/13,en,en,honest,reason_first,B,884cc483442186b4bac87f88f7ffd9030eff92a3430e601c30082f8c359517e2,completed,2026-10-16T21:07:09.804453+00:00,,,,,,,,,,,,,,,A combination of the killed and live vaccines. Polio can be eradicated by a combination of the killed and live vaccines. The final answer: A.,False,True,39,False,"Answer the following question as accurately as you can.
+
+Give a brief reason first, then put your final choice on the last line exactly as 'Answer: X', replacing X with A, B, C, or D.
+
+Polio can be eradicated by which of the following?
+A. Combination of the killed and live vaccines.
+B. Attention to sewage control and hygiene
+C. Killed polio vaccine
+D. Live polio vaccine",3.301518537999982,explicit-answer-v6,False,False,,,False,False,False,False,,none,unresolved,False,False,False,,threeway,,,,False
+threeway:virology/test/50:q=en:cue=en:condition=honest:method=reason_first:aya101-corrected-v5-aya-n20-g16-a128-r192,virology/test/50,en,en,honest,reason_first,D,3df508690b3b7a63bcf61301d91ceddcf8e533b3a23f9eca92b47edba0436f47,completed,2026-10-16T21:07:49.207084+00:00,,,,,,,,,,,,,,,The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage. The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage. The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage. The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage. The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage. The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage. The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage. The YF vaccine is a live attenuated virus vaccine developed by Pasteurian passage.,False,True,192,False,"Answer the following question as accurately as you can.
+
+Give a brief reason first, then put your final choice on the last line exactly as 'Answer: X', replacing X with A, B, C, or D.
+
+Describe the YF vaccine.
+A. Experimental vaccine only
+B. Killed virus vaccine
+C. Live attenuated vaccine produced by direct mutation of the virus genome
+D. Live attenuated virus vaccine developed by Pasteurian passage",15.707089223999901,explicit-answer-v6,False,False,,,False,False,False,False,,none,unresolved,False,False,False,,threeway,,,,True

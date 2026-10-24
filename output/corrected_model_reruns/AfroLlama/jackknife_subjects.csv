@@ -1,0 +1,451 @@
+language,pool,arm,layer,deleted_subject,reliability
+eng,last,A,19,A football match,0.7192618453019399
+eng,last,A,19,A friend's visit,0.7325203582247752
+eng,last,A,19,A neighbour,0.7230899607811513
+eng,last,A,19,A phone you bought,0.7268356496052256
+eng,last,A,19,A tailor's work,0.7245654901453743
+eng,last,A,19,A visit to a clinic or hospital,0.7188172502624807
+eng,last,A,19,A wedding you attended,0.7164576528230748
+eng,last,A,19,Electricity supply,0.723106559679847
+eng,last,A,19,Learning something new,0.7257433350837071
+eng,last,A,19,Music you heard,0.7277598224030494
+eng,last,A,19,Service at a shop,0.711222317544226
+eng,last,A,19,The cost of transport,0.7272641945649831
+eng,last,A,19,The phone network today,0.7129833148075825
+eng,last,A,19,Traffic in town,0.7223674148753241
+eng,last,A,19,Your work or job,0.7194006151300196
+eng,mean,A,32,A football match,0.438298191856204
+eng,mean,A,32,A friend's visit,0.4589554802415844
+eng,mean,A,32,A neighbour,0.4490492519768884
+eng,mean,A,32,A phone you bought,0.45053419864878086
+eng,mean,A,32,A tailor's work,0.4377212312005958
+eng,mean,A,32,A visit to a clinic or hospital,0.4308423972091638
+eng,mean,A,32,A wedding you attended,0.42720680880511563
+eng,mean,A,32,Electricity supply,0.44340203152113344
+eng,mean,A,32,Learning something new,0.4554952607375644
+eng,mean,A,32,Music you heard,0.46519518470748594
+eng,mean,A,32,Service at a shop,0.432821437323526
+eng,mean,A,32,The cost of transport,0.4700531503718477
+eng,mean,A,32,The phone network today,0.4403582059367787
+eng,mean,A,32,Traffic in town,0.4398702714940028
+eng,mean,A,32,Your work or job,0.43037330227011616
+hau,last,A,16,A football match,0.5791991184890788
+hau,last,A,16,A friend's visit,0.5710578238921662
+hau,last,A,16,A neighbour,0.5675322013658551
+hau,last,A,16,A phone you bought,0.5653253149812464
+hau,last,A,16,A tailor's work,0.572590992922382
+hau,last,A,16,A visit to a clinic or hospital,0.581261959618823
+hau,last,A,16,A wedding you attended,0.5763360831271432
+hau,last,A,16,Electricity supply,0.5723067020246488
+hau,last,A,16,Learning something new,0.5717594393365004
+hau,last,A,16,Music you heard,0.5624284071539217
+hau,last,A,16,Service at a shop,0.5698349192449197
+hau,last,A,16,The cost of transport,0.5688680440571556
+hau,last,A,16,The phone network today,0.5711258288302687
+hau,last,A,16,Traffic in town,0.5736865361506623
+hau,last,A,16,Your work or job,0.5681910236660929
+hau,mean,A,0,A football match,0.4137500713182243
+hau,mean,A,0,A friend's visit,0.36779068029224765
+hau,mean,A,0,A neighbour,0.42619266222344765
+hau,mean,A,0,A phone you bought,0.43897809043746244
+hau,mean,A,0,A tailor's work,0.41603889568555763
+hau,mean,A,0,A visit to a clinic or hospital,0.389602092348443
+hau,mean,A,0,A wedding you attended,0.3948880953739375
+hau,mean,A,0,Electricity supply,0.429356050862619
+hau,mean,A,0,Learning something new,0.42367574907100514
+hau,mean,A,0,Music you heard,0.3867919769136898
+hau,mean,A,0,Service at a shop,0.42002924577939427
+hau,mean,A,0,The cost of transport,0.4445777505528294
+hau,mean,A,0,The phone network today,0.39788837728537785
+hau,mean,A,0,Traffic in town,0.40090474213866445
+hau,mean,A,0,Your work or job,0.43305848660990054
+hau,mean,A,31,A football match,0.47155108755843245
+hau,mean,A,31,A friend's visit,0.4515321543540227
+hau,mean,A,31,A neighbour,0.4600625822201121
+hau,mean,A,31,A phone you bought,0.48166178969759643
+hau,mean,A,31,A tailor's work,0.4671130541506723
+hau,mean,A,31,A visit to a clinic or hospital,0.4437817630720622
+hau,mean,A,31,A wedding you attended,0.4561166367463872
+hau,mean,A,31,Electricity supply,0.48800966342474017
+hau,mean,A,31,Learning something new,0.46781995128315684
+hau,mean,A,31,Music you heard,0.43067736812964985
+hau,mean,A,31,Service at a shop,0.4625596062404945
+hau,mean,A,31,The cost of transport,0.47923573858878304
+hau,mean,A,31,The phone network today,0.45590629301980046
+hau,mean,A,31,Traffic in town,0.48927001747389665
+hau,mean,A,31,Your work or job,0.4485713562758082
+hau,mean,A,29,A football match,0.47864846338604716
+hau,mean,A,29,A friend's visit,0.44892365178187404
+hau,mean,A,29,A neighbour,0.4664188354148831
+hau,mean,A,29,A phone you bought,0.493312533770198
+hau,mean,A,29,A tailor's work,0.4647253080256997
+hau,mean,A,29,A visit to a clinic or hospital,0.4476080819486581
+hau,mean,A,29,A wedding you attended,0.4504007604800631
+hau,mean,A,29,Electricity supply,0.48789197569042014
+hau,mean,A,29,Learning something new,0.4749847520034234
+hau,mean,A,29,Music you heard,0.4348300561498252
+hau,mean,A,29,Service at a shop,0.4617722924523588
+hau,mean,A,29,The cost of transport,0.48188397463526866
+hau,mean,A,29,The phone network today,0.4639143747920341
+hau,mean,A,29,Traffic in town,0.5003989986954274
+hau,mean,A,29,Your work or job,0.4555330024610494
+yor,last,A,27,A football match,0.33718361064059954
+yor,last,A,27,A friend's visit,0.3149457801171202
+yor,last,A,27,A neighbour,0.31157946011468085
+yor,last,A,27,A phone you bought,0.3250393087766015
+yor,last,A,27,A tailor's work,0.2760692933487788
+yor,last,A,27,A visit to a clinic or hospital,0.31050522480143283
+yor,last,A,27,A wedding you attended,0.26455705886484543
+yor,last,A,27,Electricity supply,0.3344238601699911
+yor,last,A,27,Learning something new,0.299967219970146
+yor,last,A,27,Music you heard,0.3359590471778541
+yor,last,A,27,Service at a shop,0.3250674927941917
+yor,last,A,27,The cost of transport,0.2933582549064024
+yor,last,A,27,The phone network today,0.335668362599866
+yor,last,A,27,Traffic in town,0.3198536402300123
+yor,last,A,27,Your work or job,0.30873164931126823
+yor,last,A,14,A football match,0.22951846349077396
+yor,last,A,14,A friend's visit,0.2192741508479709
+yor,last,A,14,A neighbour,0.2146144988906331
+yor,last,A,14,A phone you bought,0.22952495020696517
+yor,last,A,14,A tailor's work,0.21646823727677497
+yor,last,A,14,A visit to a clinic or hospital,0.18808099090291022
+yor,last,A,14,A wedding you attended,0.19427140767526654
+yor,last,A,14,Electricity supply,0.2357692398199674
+yor,last,A,14,Learning something new,0.2174677860413485
+yor,last,A,14,Music you heard,0.2287966369039805
+yor,last,A,14,Service at a shop,0.22659221673477922
+yor,last,A,14,The cost of transport,0.2235330428615296
+yor,last,A,14,The phone network today,0.21664242860179025
+yor,last,A,14,Traffic in town,0.22133815855860892
+yor,last,A,14,Your work or job,0.2102319212871916
+yor,mean,A,32,A football match,0.36876195945121465
+yor,mean,A,32,A friend's visit,0.38127470433012733
+yor,mean,A,32,A neighbour,0.36086415294458873
+yor,mean,A,32,A phone you bought,0.3329200690594334
+yor,mean,A,32,A tailor's work,0.36805548771933294
+yor,mean,A,32,A visit to a clinic or hospital,0.3885527208503561
+yor,mean,A,32,A wedding you attended,0.3729189537216166
+yor,mean,A,32,Electricity supply,0.36001504510279786
+yor,mean,A,32,Learning something new,0.3695678196738846
+yor,mean,A,32,Music you heard,0.36696316642057086
+yor,mean,A,32,Service at a shop,0.3419463752150677
+yor,mean,A,32,The cost of transport,0.39259380734519167
+yor,mean,A,32,The phone network today,0.3711330554011451
+yor,mean,A,32,Traffic in town,0.3564379281700616
+yor,mean,A,32,Your work or job,0.3822333162541385
+hau,last,B,16,A football match,0.384125877943174
+hau,last,B,16,A friend's visit,0.39527647809324856
+hau,last,B,16,A neighbour,0.3821868437867202
+hau,last,B,16,A phone you bought,0.38206825169150993
+hau,last,B,16,A tailor's work,0.3741116286039029
+hau,last,B,16,A visit to a clinic or hospital,0.3767540571148739
+hau,last,B,16,A wedding you attended,0.3803305814456358
+hau,last,B,16,Electricity supply,0.3833380306940308
+hau,last,B,16,Learning something new,0.370734766507661
+hau,last,B,16,Music you heard,0.3816635287370545
+hau,last,B,16,Service at a shop,0.38377816135783194
+hau,last,B,16,The cost of transport,0.3788263956940551
+hau,last,B,16,The phone network today,0.38166027797161106
+hau,last,B,16,Traffic in town,0.3968240739463616
+hau,last,B,16,Your work or job,0.3767677594200928
+hau,last,C,16,A football match,0.5061077994367433
+hau,last,C,16,A friend's visit,0.5356559226187335
+hau,last,C,16,A neighbour,0.49604509038040795
+hau,last,C,16,A phone you bought,0.5297725416411895
+hau,last,C,16,A tailor's work,0.5070319544135631
+hau,last,C,16,A visit to a clinic or hospital,0.4984934627107647
+hau,last,C,16,A wedding you attended,0.5006278820379682
+hau,last,C,16,Electricity supply,0.5212391810823782
+hau,last,C,16,Learning something new,0.5113321300714512
+hau,last,C,16,Music you heard,0.5258924771798034
+hau,last,C,16,Service at a shop,0.502873113255526
+hau,last,C,16,The cost of transport,0.507856185967335
+hau,last,C,16,The phone network today,0.5034317495536239
+hau,last,C,16,Traffic in town,0.5154717094901681
+hau,last,C,16,Your work or job,0.5110305067522646
+hau,last,D,16,A football match,0.5592351879117037
+hau,last,D,16,A friend's visit,0.5507778667909909
+hau,last,D,16,A neighbour,0.5379617804536894
+hau,last,D,16,A phone you bought,0.5370144556710814
+hau,last,D,16,A tailor's work,0.5508167525697281
+hau,last,D,16,A visit to a clinic or hospital,0.5679507314207055
+hau,last,D,16,A wedding you attended,0.5553789377600871
+hau,last,D,16,Electricity supply,0.5611318906115055
+hau,last,D,16,Learning something new,0.5471029032525285
+hau,last,D,16,Music you heard,0.544718225954007
+hau,last,D,16,Service at a shop,0.5502716403279372
+hau,last,D,16,The cost of transport,0.5530798038783622
+hau,last,D,16,The phone network today,0.55372746084617
+hau,last,D,16,Traffic in town,0.5508226603903003
+hau,last,D,16,Your work or job,0.5492104358691057
+hau,mean,B,0,A football match,0.1378949696996709
+hau,mean,B,0,A friend's visit,0.11596703767767014
+hau,mean,B,0,A neighbour,0.1149048963784825
+hau,mean,B,0,A phone you bought,0.1672670283714838
+hau,mean,B,0,A tailor's work,0.13365524044300803
+hau,mean,B,0,A visit to a clinic or hospital,0.1528532608586828
+hau,mean,B,0,A wedding you attended,0.15197968607687604
+hau,mean,B,0,Electricity supply,0.12565363257172402
+hau,mean,B,0,Learning something new,0.13654997744203365
+hau,mean,B,0,Music you heard,0.13613559638817946
+hau,mean,B,0,Service at a shop,0.17387278094080538
+hau,mean,B,0,The cost of transport,0.14121133348371676
+hau,mean,B,0,The phone network today,0.10327037100006142
+hau,mean,B,0,Traffic in town,0.16024852820484792
+hau,mean,B,0,Your work or job,0.12393134635172079
+hau,mean,C,0,A football match,0.21708023560300405
+hau,mean,C,0,A friend's visit,0.19174126189452323
+hau,mean,C,0,A neighbour,0.15392777188139353
+hau,mean,C,0,A phone you bought,0.20300195752199632
+hau,mean,C,0,A tailor's work,0.15082420536416163
+hau,mean,C,0,A visit to a clinic or hospital,0.2213261974941088
+hau,mean,C,0,A wedding you attended,0.20124228804940825
+hau,mean,C,0,Electricity supply,0.23359605782695525
+hau,mean,C,0,Learning something new,0.20606179657551554
+hau,mean,C,0,Music you heard,0.21569006058926743
+hau,mean,C,0,Service at a shop,0.2516366501356032
+hau,mean,C,0,The cost of transport,0.1992059647813747
+hau,mean,C,0,The phone network today,0.1952620493093873
+hau,mean,C,0,Traffic in town,0.21463205135835864
+hau,mean,C,0,Your work or job,0.20541869162546347
+hau,mean,D,0,A football match,0.4937410035752732
+hau,mean,D,0,A friend's visit,0.46664584905379525
+hau,mean,D,0,A neighbour,0.5180871519599624
+hau,mean,D,0,A phone you bought,0.5289077305733773
+hau,mean,D,0,A tailor's work,0.48093000806063857
+hau,mean,D,0,A visit to a clinic or hospital,0.5157905617893939
+hau,mean,D,0,A wedding you attended,0.46675305932927563
+hau,mean,D,0,Electricity supply,0.5125064272664192
+hau,mean,D,0,Learning something new,0.49756447986728053
+hau,mean,D,0,Music you heard,0.4717035568845065
+hau,mean,D,0,Service at a shop,0.47979331575941003
+hau,mean,D,0,The cost of transport,0.5280399454261522
+hau,mean,D,0,The phone network today,0.5026459155788291
+hau,mean,D,0,Traffic in town,0.5199485630271431
+hau,mean,D,0,Your work or job,0.5069896077166252
+hau,mean,B,31,A football match,0.29490496928868215
+hau,mean,B,31,A friend's visit,0.2831555953120272
+hau,mean,B,31,A neighbour,0.296671219063285
+hau,mean,B,31,A phone you bought,0.32072491490215577
+hau,mean,B,31,A tailor's work,0.3071588857929806
+hau,mean,B,31,A visit to a clinic or hospital,0.26537893684902114
+hau,mean,B,31,A wedding you attended,0.32956811653262674
+hau,mean,B,31,Electricity supply,0.3365934698130248
+hau,mean,B,31,Learning something new,0.328731742949337
+hau,mean,B,31,Music you heard,0.35489952225250043
+hau,mean,B,31,Service at a shop,0.30912932034779794
+hau,mean,B,31,The cost of transport,0.28769194806655135
+hau,mean,B,31,The phone network today,0.2896723762548659
+hau,mean,B,31,Traffic in town,0.35613394602900106
+hau,mean,B,31,Your work or job,0.31271316563696305
+hau,mean,C,31,A football match,0.26088203913348396
+hau,mean,C,31,A friend's visit,0.206716317756871
+hau,mean,C,31,A neighbour,0.2689729639411257
+hau,mean,C,31,A phone you bought,0.30378336210550433
+hau,mean,C,31,A tailor's work,0.23864906764290036
+hau,mean,C,31,A visit to a clinic or hospital,0.243761822438866
+hau,mean,C,31,A wedding you attended,0.29782029163047163
+hau,mean,C,31,Electricity supply,0.2992818384424644
+hau,mean,C,31,Learning something new,0.26319375080716445
+hau,mean,C,31,Music you heard,0.2950963999142658
+hau,mean,C,31,Service at a shop,0.26944902130982157
+hau,mean,C,31,The cost of transport,0.24040209743700586
+hau,mean,C,31,The phone network today,0.23329022527226276
+hau,mean,C,31,Traffic in town,0.2511040215299345
+hau,mean,C,31,Your work or job,0.25170807914415105
+hau,mean,D,31,A football match,0.4047472319850495
+hau,mean,D,31,A friend's visit,0.38057777229991757
+hau,mean,D,31,A neighbour,0.3961880802380497
+hau,mean,D,31,A phone you bought,0.4251975457617298
+hau,mean,D,31,A tailor's work,0.4087485636426498
+hau,mean,D,31,A visit to a clinic or hospital,0.4190663581788722
+hau,mean,D,31,A wedding you attended,0.37597199683782667
+hau,mean,D,31,Electricity supply,0.41446314143758056
+hau,mean,D,31,Learning something new,0.3937534782256529
+hau,mean,D,31,Music you heard,0.3928913749759157
+hau,mean,D,31,Service at a shop,0.43693724088123587
+hau,mean,D,31,The cost of transport,0.4283337949778098
+hau,mean,D,31,The phone network today,0.42638638001376167
+hau,mean,D,31,Traffic in town,0.4745888272211918
+hau,mean,D,31,Your work or job,0.4031969956984722
+hau,mean,B,29,A football match,0.30228224264677683
+hau,mean,B,29,A friend's visit,0.29349129917183786
+hau,mean,B,29,A neighbour,0.3121814701679616
+hau,mean,B,29,A phone you bought,0.3341670920073275
+hau,mean,B,29,A tailor's work,0.3183161170935588
+hau,mean,B,29,A visit to a clinic or hospital,0.28352736651917826
+hau,mean,B,29,A wedding you attended,0.3333317103895239
+hau,mean,B,29,Electricity supply,0.34286440957223463
+hau,mean,B,29,Learning something new,0.335404496690834
+hau,mean,B,29,Music you heard,0.36547766697124806
+hau,mean,B,29,Service at a shop,0.327019704607563
+hau,mean,B,29,The cost of transport,0.2993062596354712
+hau,mean,B,29,The phone network today,0.30021095825281285
+hau,mean,B,29,Traffic in town,0.3621689472590742
+hau,mean,B,29,Your work or job,0.3137693312124386
+hau,mean,C,29,A football match,0.2561457538512119
+hau,mean,C,29,A friend's visit,0.20763699073805297
+hau,mean,C,29,A neighbour,0.26099039206715935
+hau,mean,C,29,A phone you bought,0.30804226030544735
+hau,mean,C,29,A tailor's work,0.24193702550353213
+hau,mean,C,29,A visit to a clinic or hospital,0.24718181218233665
+hau,mean,C,29,A wedding you attended,0.30024816260471743
+hau,mean,C,29,Electricity supply,0.29528605839205513
+hau,mean,C,29,Learning something new,0.25581941729871743
+hau,mean,C,29,Music you heard,0.3003306394762143
+hau,mean,C,29,Service at a shop,0.2713053264698476
+hau,mean,C,29,The cost of transport,0.24237547381692778
+hau,mean,C,29,The phone network today,0.22912737669959438
+hau,mean,C,29,Traffic in town,0.25080786814952877
+hau,mean,C,29,Your work or job,0.2419603458219007
+hau,mean,D,29,A football match,0.419839649558983
+hau,mean,D,29,A friend's visit,0.3887605501754854
+hau,mean,D,29,A neighbour,0.4103831944287839
+hau,mean,D,29,A phone you bought,0.4400119420881275
+hau,mean,D,29,A tailor's work,0.42710252510060864
+hau,mean,D,29,A visit to a clinic or hospital,0.43692341797730266
+hau,mean,D,29,A wedding you attended,0.38589178104768806
+hau,mean,D,29,Electricity supply,0.4280603974718097
+hau,mean,D,29,Learning something new,0.40863107812452654
+hau,mean,D,29,Music you heard,0.40400185597580957
+hau,mean,D,29,Service at a shop,0.4578097106907601
+hau,mean,D,29,The cost of transport,0.43538618004015606
+hau,mean,D,29,The phone network today,0.43756220101814686
+hau,mean,D,29,Traffic in town,0.5026230622650083
+hau,mean,D,29,Your work or job,0.41270177825268767
+yor,last,B,27,A football match,0.14547089773409239
+yor,last,B,27,A friend's visit,0.16575124084705106
+yor,last,B,27,A neighbour,0.21057958466162013
+yor,last,B,27,A phone you bought,0.12624619024591166
+yor,last,B,27,A tailor's work,0.15814201277805348
+yor,last,B,27,A visit to a clinic or hospital,0.14067134415281915
+yor,last,B,27,A wedding you attended,0.151855119611969
+yor,last,B,27,Electricity supply,0.17147899968613378
+yor,last,B,27,Learning something new,0.14007001555888615
+yor,last,B,27,Music you heard,0.14834161050132477
+yor,last,B,27,Service at a shop,0.1597427821153919
+yor,last,B,27,The cost of transport,0.1749694807224164
+yor,last,B,27,The phone network today,0.15099095135189383
+yor,last,B,27,Traffic in town,0.165874910631677
+yor,last,B,27,Your work or job,0.15714043882930878
+yor,last,C,27,A football match,0.4689412070020905
+yor,last,C,27,A friend's visit,0.47113986748488296
+yor,last,C,27,A neighbour,0.4537404389659021
+yor,last,C,27,A phone you bought,0.4739680703869494
+yor,last,C,27,A tailor's work,0.4622620388215362
+yor,last,C,27,A visit to a clinic or hospital,0.46198671610308073
+yor,last,C,27,A wedding you attended,0.46408060176414573
+yor,last,C,27,Electricity supply,0.4959528136497674
+yor,last,C,27,Learning something new,0.4719732127519237
+yor,last,C,27,Music you heard,0.46688407608304133
+yor,last,C,27,Service at a shop,0.4639240638886893
+yor,last,C,27,The cost of transport,0.47327048169334135
+yor,last,C,27,The phone network today,0.4766929248545771
+yor,last,C,27,Traffic in town,0.4731507556857305
+yor,last,C,27,Your work or job,0.45860721132440074
+yor,last,D,27,A football match,0.29206942225032556
+yor,last,D,27,A friend's visit,0.3037571145816946
+yor,last,D,27,A neighbour,0.2485354169079059
+yor,last,D,27,A phone you bought,0.27731812676502215
+yor,last,D,27,A tailor's work,0.2933794511068263
+yor,last,D,27,A visit to a clinic or hospital,0.2827303003871125
+yor,last,D,27,A wedding you attended,0.25574419735956194
+yor,last,D,27,Electricity supply,0.26473574828360014
+yor,last,D,27,Learning something new,0.2706064111037305
+yor,last,D,27,Music you heard,0.27578243263172625
+yor,last,D,27,Service at a shop,0.26714628229163173
+yor,last,D,27,The cost of transport,0.2947200687600249
+yor,last,D,27,The phone network today,0.29559842117460133
+yor,last,D,27,Traffic in town,0.2832772066304291
+yor,last,D,27,Your work or job,0.2566459466329226
+yor,last,B,14,A football match,0.2332482599195375
+yor,last,B,14,A friend's visit,0.25179799059401187
+yor,last,B,14,A neighbour,0.25947354731565647
+yor,last,B,14,A phone you bought,0.2160370407522166
+yor,last,B,14,A tailor's work,0.21480998864167605
+yor,last,B,14,A visit to a clinic or hospital,0.22219088281279312
+yor,last,B,14,A wedding you attended,0.23254795283270943
+yor,last,B,14,Electricity supply,0.2278488472249676
+yor,last,B,14,Learning something new,0.22129735892323377
+yor,last,B,14,Music you heard,0.23591566697600047
+yor,last,B,14,Service at a shop,0.25032837333343655
+yor,last,B,14,The cost of transport,0.23158561853315163
+yor,last,B,14,The phone network today,0.2108704084248375
+yor,last,B,14,Traffic in town,0.2426499664492695
+yor,last,B,14,Your work or job,0.21006628962815277
+yor,last,C,14,A football match,0.4922306434165655
+yor,last,C,14,A friend's visit,0.526475015756434
+yor,last,C,14,A neighbour,0.49947967852983216
+yor,last,C,14,A phone you bought,0.5325528806998954
+yor,last,C,14,A tailor's work,0.5138437584829152
+yor,last,C,14,A visit to a clinic or hospital,0.49178286178309594
+yor,last,C,14,A wedding you attended,0.4968068199578247
+yor,last,C,14,Electricity supply,0.5263143423309589
+yor,last,C,14,Learning something new,0.5056924855685572
+yor,last,C,14,Music you heard,0.5122949148186605
+yor,last,C,14,Service at a shop,0.5106561400412618
+yor,last,C,14,The cost of transport,0.5013871721936828
+yor,last,C,14,The phone network today,0.5189830892710118
+yor,last,C,14,Traffic in town,0.5271318642390733
+yor,last,C,14,Your work or job,0.4938993435989306
+yor,last,D,14,A football match,0.26447708906641126
+yor,last,D,14,A friend's visit,0.27197061407633216
+yor,last,D,14,A neighbour,0.2536446981338801
+yor,last,D,14,A phone you bought,0.29120225425619606
+yor,last,D,14,A tailor's work,0.2751778893670349
+yor,last,D,14,A visit to a clinic or hospital,0.2632737023777136
+yor,last,D,14,A wedding you attended,0.24338958806179106
+yor,last,D,14,Electricity supply,0.2700060463949823
+yor,last,D,14,Learning something new,0.255803966510491
+yor,last,D,14,Music you heard,0.27931943856706043
+yor,last,D,14,Service at a shop,0.2595991997138838
+yor,last,D,14,The cost of transport,0.28605560030297306
+yor,last,D,14,The phone network today,0.2724402928517598
+yor,last,D,14,Traffic in town,0.27415979180909855
+yor,last,D,14,Your work or job,0.26273397380270086
+yor,mean,B,32,A football match,0.15029402019306046
+yor,mean,B,32,A friend's visit,0.15263290654302628
+yor,mean,B,32,A neighbour,0.17445837284662905
+yor,mean,B,32,A phone you bought,0.20188092254675866
+yor,mean,B,32,A tailor's work,0.14802207853855193
+yor,mean,B,32,A visit to a clinic or hospital,0.23212568407467024
+yor,mean,B,32,A wedding you attended,0.17639817916221603
+yor,mean,B,32,Electricity supply,0.14161892134879844
+yor,mean,B,32,Learning something new,0.11926271005562059
+yor,mean,B,32,Music you heard,0.12829553457991577
+yor,mean,B,32,Service at a shop,0.17170207965731282
+yor,mean,B,32,The cost of transport,0.1566405200808383
+yor,mean,B,32,The phone network today,0.15751486516895594
+yor,mean,B,32,Traffic in town,0.15899686422695977
+yor,mean,B,32,Your work or job,0.16621744776363367
+yor,mean,C,32,A football match,0.18034339431002014
+yor,mean,C,32,A friend's visit,0.19475997106404375
+yor,mean,C,32,A neighbour,0.18888390682018538
+yor,mean,C,32,A phone you bought,0.1785489935896038
+yor,mean,C,32,A tailor's work,0.1792643181057204
+yor,mean,C,32,A visit to a clinic or hospital,0.16416587403888133
+yor,mean,C,32,A wedding you attended,0.17198006418664374
+yor,mean,C,32,Electricity supply,0.1872654538725864
+yor,mean,C,32,Learning something new,0.1735480832352697
+yor,mean,C,32,Music you heard,0.17094314554315512
+yor,mean,C,32,Service at a shop,0.12574711053025017
+yor,mean,C,32,The cost of transport,0.1802020781738639
+yor,mean,C,32,The phone network today,0.1668894841073654
+yor,mean,C,32,Traffic in town,0.20947509024591754
+yor,mean,C,32,Your work or job,0.1888534956094869
+yor,mean,D,32,A football match,0.21692030839010973
+yor,mean,D,32,A friend's visit,0.2623452053544224
+yor,mean,D,32,A neighbour,0.18087686267658692
+yor,mean,D,32,A phone you bought,0.17754709762275922
+yor,mean,D,32,A tailor's work,0.18325671340406569
+yor,mean,D,32,A visit to a clinic or hospital,0.22498829749488947
+yor,mean,D,32,A wedding you attended,0.17435040303942806
+yor,mean,D,32,Electricity supply,0.21786444898982132
+yor,mean,D,32,Learning something new,0.1961571292324601
+yor,mean,D,32,Music you heard,0.1914698552152852
+yor,mean,D,32,Service at a shop,0.15404790846864064
+yor,mean,D,32,The cost of transport,0.2200966390492739
+yor,mean,D,32,The phone network today,0.19029799579683884
+yor,mean,D,32,Traffic in town,0.1477123852403811
+yor,mean,D,32,Your work or job,0.17974488522094773

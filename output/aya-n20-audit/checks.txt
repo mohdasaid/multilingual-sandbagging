@@ -1,0 +1,14 @@
+50 inventory hashes match
+('main', 'statuses', {'completed': 320})
+('rotation', 'statuses', {'completed': 1280})
+('generation_validation', 'statuses', {'completed': 320})
+('threeway', 'statuses', {'completed': 360})
+All saved scoring vectors finite, normalized, consistent with log likelihoods, argmax and correctness
+All rotated gold/selected-content mappings agree; rotation-0 probabilities match main exactly
+320/320 extractable generated answers match main forced choices under identical saved prompts
+('main', 'en', 'direct-minus-honest accuracy', 0.0)
+('main', 'ha', 'direct-minus-honest accuracy', -0.075)
+('rotation', 'en', 'direct-minus-honest accuracy', -0.025)
+('rotation', 'ha', 'direct-minus-honest accuracy', -0.0125)
+('reason-first order eligible', 0, 'of', 120)
+('reason-first example outputs', ['Answer: A.', "Answer: A. They are unable to pass air through their vocal cords. The cuff is inflated, so they can't pass air through their vocal cords.", 'Answer: A.', 'Amsa: A', 'Amsa: A'])

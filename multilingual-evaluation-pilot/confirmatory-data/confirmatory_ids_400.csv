@@ -1,0 +1,401 @@
+sample_id,subject_en,subject_category_en
+computer_security/test/33,computer_security,STEM
+professional_accounting/test/9,professional_accounting,Business
+professional_law/test/696,professional_law,Humanities
+econometrics/test/104,econometrics,Social Sciences
+professional_psychology/test/397,professional_psychology,Social Sciences
+human_sexuality/test/52,human_sexuality,Social Sciences
+college_physics/test/16,college_physics,STEM
+professional_medicine/test/66,professional_medicine,Medical
+marketing/test/127,marketing,Business
+college_chemistry/test/71,college_chemistry,STEM
+professional_law/test/329,professional_law,Humanities
+virology/test/73,virology,Medical
+nutrition/test/190,nutrition,Medical
+miscellaneous/test/145,miscellaneous,Other
+high_school_statistics/test/133,high_school_statistics,STEM
+high_school_statistics/test/154,high_school_statistics,STEM
+jurisprudence/test/93,jurisprudence,Humanities
+high_school_world_history/test/100,high_school_world_history,Humanities
+moral_scenarios/test/495,moral_scenarios,Humanities
+nutrition/test/208,nutrition,Medical
+high_school_macroeconomics/test/233,high_school_macroeconomics,Social Sciences
+computer_security/test/20,computer_security,STEM
+marketing/test/147,marketing,Business
+professional_law/test/286,professional_law,Humanities
+logical_fallacies/test/94,logical_fallacies,Humanities
+formal_logic/test/68,formal_logic,Humanities
+high_school_government_and_politics/test/112,high_school_government_and_politics,Social Sciences
+elementary_mathematics/test/9,elementary_mathematics,STEM
+high_school_macroeconomics/test/80,high_school_macroeconomics,Social Sciences
+conceptual_physics/test/92,conceptual_physics,STEM
+professional_law/test/1388,professional_law,Humanities
+human_sexuality/test/40,human_sexuality,Social Sciences
+moral_scenarios/test/583,moral_scenarios,Humanities
+professional_law/test/1203,professional_law,Humanities
+public_relations/test/15,public_relations,Social Sciences
+logical_fallacies/test/83,logical_fallacies,Humanities
+high_school_biology/test/82,high_school_biology,STEM
+professional_law/test/644,professional_law,Humanities
+professional_psychology/test/412,professional_psychology,Social Sciences
+high_school_geography/test/193,high_school_geography,Social Sciences
+high_school_biology/test/69,high_school_biology,STEM
+moral_scenarios/test/214,moral_scenarios,Humanities
+professional_law/test/730,professional_law,Humanities
+marketing/test/169,marketing,Business
+high_school_microeconomics/test/150,high_school_microeconomics,Social Sciences
+high_school_mathematics/test/113,high_school_mathematics,STEM
+professional_law/test/837,professional_law,Humanities
+high_school_psychology/test/299,high_school_psychology,Social Sciences
+prehistory/test/22,prehistory,Humanities
+high_school_psychology/test/172,high_school_psychology,Social Sciences
+miscellaneous/test/714,miscellaneous,Other
+high_school_macroeconomics/test/174,high_school_macroeconomics,Social Sciences
+elementary_mathematics/test/77,elementary_mathematics,STEM
+professional_psychology/test/3,professional_psychology,Social Sciences
+college_chemistry/test/43,college_chemistry,STEM
+high_school_european_history/test/17,high_school_european_history,Humanities
+moral_disputes/test/1,moral_disputes,Humanities
+business_ethics/test/46,business_ethics,Business
+miscellaneous/test/590,miscellaneous,Other
+electrical_engineering/test/8,electrical_engineering,STEM
+high_school_macroeconomics/test/45,high_school_macroeconomics,Social Sciences
+high_school_microeconomics/test/54,high_school_microeconomics,Social Sciences
+high_school_macroeconomics/test/307,high_school_macroeconomics,Social Sciences
+high_school_macroeconomics/test/225,high_school_macroeconomics,Social Sciences
+medical_genetics/test/98,medical_genetics,Medical
+moral_scenarios/test/813,moral_scenarios,Humanities
+virology/test/50,virology,Medical
+global_facts/test/21,global_facts,Other
+college_mathematics/test/5,college_mathematics,STEM
+high_school_geography/test/25,high_school_geography,Social Sciences
+high_school_us_history/test/113,high_school_us_history,Humanities
+miscellaneous/test/360,miscellaneous,Other
+moral_disputes/test/88,moral_disputes,Humanities
+high_school_us_history/test/63,high_school_us_history,Humanities
+high_school_psychology/test/461,high_school_psychology,Social Sciences
+professional_psychology/test/294,professional_psychology,Social Sciences
+econometrics/test/28,econometrics,Social Sciences
+elementary_mathematics/test/71,elementary_mathematics,STEM
+security_studies/test/70,security_studies,Social Sciences
+moral_scenarios/test/225,moral_scenarios,Humanities
+high_school_psychology/test/17,high_school_psychology,Social Sciences
+moral_scenarios/test/235,moral_scenarios,Humanities
+elementary_mathematics/test/82,elementary_mathematics,STEM
+high_school_physics/test/61,high_school_physics,STEM
+professional_law/test/655,professional_law,Humanities
+high_school_government_and_politics/test/41,high_school_government_and_politics,Social Sciences
+professional_psychology/test/64,professional_psychology,Social Sciences
+electrical_engineering/test/111,electrical_engineering,STEM
+high_school_macroeconomics/test/41,high_school_macroeconomics,Social Sciences
+high_school_psychology/test/98,high_school_psychology,Social Sciences
+moral_scenarios/test/527,moral_scenarios,Humanities
+professional_psychology/test/444,professional_psychology,Social Sciences
+college_medicine/test/152,college_medicine,Medical
+world_religions/test/122,world_religions,Humanities
+college_mathematics/test/33,college_mathematics,STEM
+professional_psychology/test/392,professional_psychology,Social Sciences
+marketing/test/62,marketing,Business
+virology/test/90,virology,Medical
+virology/test/33,virology,Medical
+world_religions/test/35,world_religions,Humanities
+high_school_macroeconomics/test/74,high_school_macroeconomics,Social Sciences
+high_school_european_history/test/119,high_school_european_history,Humanities
+professional_law/test/973,professional_law,Humanities
+clinical_knowledge/test/217,clinical_knowledge,Medical
+prehistory/test/202,prehistory,Humanities
+high_school_physics/test/116,high_school_physics,STEM
+professional_law/test/864,professional_law,Humanities
+management/test/73,management,Business
+professional_psychology/test/509,professional_psychology,Social Sciences
+anatomy/test/13,anatomy,STEM
+moral_disputes/test/73,moral_disputes,Humanities
+conceptual_physics/test/133,conceptual_physics,STEM
+professional_law/test/403,professional_law,Humanities
+professional_law/test/433,professional_law,Humanities
+electrical_engineering/test/134,electrical_engineering,STEM
+high_school_statistics/test/189,high_school_statistics,STEM
+marketing/test/150,marketing,Business
+clinical_knowledge/test/121,clinical_knowledge,Medical
+moral_scenarios/test/137,moral_scenarios,Humanities
+elementary_mathematics/test/102,elementary_mathematics,STEM
+high_school_microeconomics/test/75,high_school_microeconomics,Social Sciences
+high_school_computer_science/test/70,high_school_computer_science,STEM
+human_aging/test/199,human_aging,Medical
+formal_logic/test/50,formal_logic,Humanities
+moral_scenarios/test/51,moral_scenarios,Humanities
+moral_scenarios/test/397,moral_scenarios,Humanities
+virology/test/13,virology,Medical
+miscellaneous/test/412,miscellaneous,Other
+professional_accounting/test/149,professional_accounting,Business
+moral_scenarios/test/104,moral_scenarios,Humanities
+professional_psychology/test/252,professional_psychology,Social Sciences
+miscellaneous/test/209,miscellaneous,Other
+professional_psychology/test/439,professional_psychology,Social Sciences
+high_school_geography/test/191,high_school_geography,Social Sciences
+human_aging/test/194,human_aging,Medical
+college_biology/test/90,college_biology,STEM
+high_school_world_history/test/104,high_school_world_history,Humanities
+world_religions/test/42,world_religions,Humanities
+marketing/test/76,marketing,Business
+security_studies/test/33,security_studies,Social Sciences
+sociology/test/176,sociology,Social Sciences
+high_school_world_history/test/1,high_school_world_history,Humanities
+public_relations/test/26,public_relations,Social Sciences
+professional_accounting/test/126,professional_accounting,Business
+elementary_mathematics/test/46,elementary_mathematics,STEM
+high_school_mathematics/test/12,high_school_mathematics,STEM
+high_school_statistics/test/46,high_school_statistics,STEM
+high_school_macroeconomics/test/207,high_school_macroeconomics,Social Sciences
+professional_law/test/31,professional_law,Humanities
+machine_learning/test/100,machine_learning,STEM
+professional_psychology/test/568,professional_psychology,Social Sciences
+moral_scenarios/test/126,moral_scenarios,Humanities
+high_school_computer_science/test/24,high_school_computer_science,STEM
+moral_scenarios/test/201,moral_scenarios,Humanities
+econometrics/test/70,econometrics,Social Sciences
+high_school_psychology/test/348,high_school_psychology,Social Sciences
+elementary_mathematics/test/136,elementary_mathematics,STEM
+moral_scenarios/test/274,moral_scenarios,Humanities
+high_school_geography/test/153,high_school_geography,Social Sciences
+human_aging/test/144,human_aging,Medical
+professional_psychology/test/359,professional_psychology,Social Sciences
+high_school_government_and_politics/test/55,high_school_government_and_politics,Social Sciences
+professional_law/test/418,professional_law,Humanities
+marketing/test/13,marketing,Business
+professional_law/test/407,professional_law,Humanities
+marketing/test/83,marketing,Business
+high_school_microeconomics/test/153,high_school_microeconomics,Social Sciences
+high_school_european_history/test/87,high_school_european_history,Humanities
+high_school_psychology/test/216,high_school_psychology,Social Sciences
+moral_scenarios/test/320,moral_scenarios,Humanities
+nutrition/test/19,nutrition,Medical
+prehistory/test/261,prehistory,Humanities
+high_school_mathematics/test/261,high_school_mathematics,STEM
+professional_law/test/148,professional_law,Humanities
+college_physics/test/35,college_physics,STEM
+moral_scenarios/test/329,moral_scenarios,Humanities
+moral_disputes/test/139,moral_disputes,Humanities
+high_school_european_history/test/141,high_school_european_history,Humanities
+high_school_world_history/test/46,high_school_world_history,Humanities
+philosophy/test/16,philosophy,Humanities
+high_school_psychology/test/57,high_school_psychology,Social Sciences
+human_aging/test/178,human_aging,Medical
+anatomy/test/36,anatomy,STEM
+public_relations/test/100,public_relations,Social Sciences
+high_school_psychology/test/411,high_school_psychology,Social Sciences
+high_school_macroeconomics/test/209,high_school_macroeconomics,Social Sciences
+high_school_statistics/test/179,high_school_statistics,STEM
+miscellaneous/test/654,miscellaneous,Other
+marketing/test/137,marketing,Business
+high_school_geography/test/162,high_school_geography,Social Sciences
+elementary_mathematics/test/370,elementary_mathematics,STEM
+business_ethics/test/18,business_ethics,Business
+conceptual_physics/test/23,conceptual_physics,STEM
+world_religions/test/131,world_religions,Humanities
+elementary_mathematics/test/353,elementary_mathematics,STEM
+high_school_microeconomics/test/180,high_school_microeconomics,Social Sciences
+high_school_physics/test/149,high_school_physics,STEM
+high_school_biology/test/145,high_school_biology,STEM
+high_school_geography/test/87,high_school_geography,Social Sciences
+public_relations/test/66,public_relations,Social Sciences
+professional_psychology/test/118,professional_psychology,Social Sciences
+moral_scenarios/test/879,moral_scenarios,Humanities
+high_school_us_history/test/174,high_school_us_history,Humanities
+management/test/34,management,Business
+high_school_microeconomics/test/120,high_school_microeconomics,Social Sciences
+professional_law/test/1285,professional_law,Humanities
+computer_security/test/32,computer_security,STEM
+human_sexuality/test/76,human_sexuality,Social Sciences
+human_aging/test/149,human_aging,Medical
+clinical_knowledge/test/165,clinical_knowledge,Medical
+professional_law/test/955,professional_law,Humanities
+miscellaneous/test/115,miscellaneous,Other
+high_school_geography/test/184,high_school_geography,Social Sciences
+high_school_chemistry/test/125,high_school_chemistry,STEM
+conceptual_physics/test/37,conceptual_physics,STEM
+business_ethics/test/38,business_ethics,Business
+high_school_statistics/test/120,high_school_statistics,STEM
+security_studies/test/67,security_studies,Social Sciences
+security_studies/test/174,security_studies,Social Sciences
+clinical_knowledge/test/228,clinical_knowledge,Medical
+high_school_geography/test/50,high_school_geography,Social Sciences
+professional_law/test/872,professional_law,Humanities
+professional_medicine/test/207,professional_medicine,Medical
+professional_accounting/test/56,professional_accounting,Business
+professional_psychology/test/434,professional_psychology,Social Sciences
+high_school_us_history/test/6,high_school_us_history,Humanities
+logical_fallacies/test/161,logical_fallacies,Humanities
+moral_scenarios/test/423,moral_scenarios,Humanities
+clinical_knowledge/test/17,clinical_knowledge,Medical
+professional_law/test/1067,professional_law,Humanities
+moral_disputes/test/107,moral_disputes,Humanities
+virology/test/17,virology,Medical
+miscellaneous/test/288,miscellaneous,Other
+miscellaneous/test/5,miscellaneous,Other
+clinical_knowledge/test/85,clinical_knowledge,Medical
+abstract_algebra/test/77,abstract_algebra,STEM
+moral_scenarios/test/713,moral_scenarios,Humanities
+college_biology/test/27,college_biology,STEM
+professional_law/test/569,professional_law,Humanities
+nutrition/test/203,nutrition,Medical
+philosophy/test/175,philosophy,Humanities
+professional_law/test/1240,professional_law,Humanities
+marketing/test/90,marketing,Business
+moral_scenarios/test/434,moral_scenarios,Humanities
+miscellaneous/test/635,miscellaneous,Other
+miscellaneous/test/425,miscellaneous,Other
+high_school_psychology/test/87,high_school_psychology,Social Sciences
+human_sexuality/test/106,human_sexuality,Social Sciences
+high_school_statistics/test/53,high_school_statistics,STEM
+high_school_government_and_politics/test/166,high_school_government_and_politics,Social Sciences
+professional_accounting/test/93,professional_accounting,Business
+human_aging/test/16,human_aging,Medical
+high_school_macroeconomics/test/56,high_school_macroeconomics,Social Sciences
+nutrition/test/163,nutrition,Medical
+business_ethics/test/37,business_ethics,Business
+professional_psychology/test/538,professional_psychology,Social Sciences
+high_school_chemistry/test/108,high_school_chemistry,STEM
+sociology/test/184,sociology,Social Sciences
+electrical_engineering/test/120,electrical_engineering,STEM
+nutrition/test/18,nutrition,Medical
+professional_psychology/test/206,professional_psychology,Social Sciences
+high_school_biology/test/207,high_school_biology,STEM
+moral_scenarios/test/263,moral_scenarios,Humanities
+medical_genetics/test/55,medical_genetics,Medical
+moral_scenarios/test/755,moral_scenarios,Humanities
+machine_learning/test/78,machine_learning,STEM
+high_school_european_history/test/15,high_school_european_history,Humanities
+abstract_algebra/test/66,abstract_algebra,STEM
+medical_genetics/test/95,medical_genetics,Medical
+moral_disputes/test/292,moral_disputes,Humanities
+high_school_physics/test/84,high_school_physics,STEM
+prehistory/test/20,prehistory,Humanities
+philosophy/test/265,philosophy,Humanities
+miscellaneous/test/72,miscellaneous,Other
+professional_law/test/1496,professional_law,Humanities
+moral_scenarios/test/471,moral_scenarios,Humanities
+formal_logic/test/41,formal_logic,Humanities
+miscellaneous/test/439,miscellaneous,Other
+moral_scenarios/test/111,moral_scenarios,Humanities
+clinical_knowledge/test/187,clinical_knowledge,Medical
+high_school_government_and_politics/test/5,high_school_government_and_politics,Social Sciences
+college_medicine/test/106,college_medicine,Medical
+professional_psychology/test/584,professional_psychology,Social Sciences
+high_school_biology/test/55,high_school_biology,STEM
+professional_law/test/8,professional_law,Humanities
+high_school_macroeconomics/test/124,high_school_macroeconomics,Social Sciences
+professional_accounting/test/142,professional_accounting,Business
+professional_psychology/test/489,professional_psychology,Social Sciences
+miscellaneous/test/731,miscellaneous,Other
+professional_law/test/75,professional_law,Humanities
+high_school_microeconomics/test/97,high_school_microeconomics,Social Sciences
+high_school_microeconomics/test/208,high_school_microeconomics,Social Sciences
+high_school_physics/test/129,high_school_physics,STEM
+formal_logic/test/93,formal_logic,Humanities
+college_medicine/test/63,college_medicine,Medical
+high_school_psychology/test/97,high_school_psychology,Social Sciences
+high_school_geography/test/24,high_school_geography,Social Sciences
+professional_law/test/1057,professional_law,Humanities
+professional_psychology/test/170,professional_psychology,Social Sciences
+astronomy/test/68,astronomy,STEM
+moral_disputes/test/199,moral_disputes,Humanities
+electrical_engineering/test/60,electrical_engineering,STEM
+miscellaneous/test/136,miscellaneous,Other
+high_school_chemistry/test/202,high_school_chemistry,STEM
+nutrition/test/32,nutrition,Medical
+electrical_engineering/test/103,electrical_engineering,STEM
+professional_law/test/109,professional_law,Humanities
+high_school_government_and_politics/test/170,high_school_government_and_politics,Social Sciences
+college_biology/test/4,college_biology,STEM
+human_aging/test/155,human_aging,Medical
+high_school_chemistry/test/81,high_school_chemistry,STEM
+professional_law/test/271,professional_law,Humanities
+professional_medicine/test/259,professional_medicine,Medical
+clinical_knowledge/test/26,clinical_knowledge,Medical
+miscellaneous/test/35,miscellaneous,Other
+miscellaneous/test/135,miscellaneous,Other
+high_school_computer_science/test/95,high_school_computer_science,STEM
+professional_law/test/414,professional_law,Humanities
+professional_psychology/test/23,professional_psychology,Social Sciences
+moral_disputes/test/320,moral_disputes,Humanities
+conceptual_physics/test/136,conceptual_physics,STEM
+nutrition/test/196,nutrition,Medical
+moral_scenarios/test/798,moral_scenarios,Humanities
+high_school_biology/test/83,high_school_biology,STEM
+computer_security/test/50,computer_security,STEM
+professional_psychology/test/76,professional_psychology,Social Sciences
+professional_law/test/367,professional_law,Humanities
+nutrition/test/78,nutrition,Medical
+professional_law/test/1517,professional_law,Humanities
+human_aging/test/181,human_aging,Medical
+miscellaneous/test/120,miscellaneous,Other
+jurisprudence/test/20,jurisprudence,Humanities
+professional_medicine/test/147,professional_medicine,Medical
+high_school_mathematics/test/76,high_school_mathematics,STEM
+high_school_psychology/test/225,high_school_psychology,Social Sciences
+sociology/test/73,sociology,Social Sciences
+high_school_biology/test/100,high_school_biology,STEM
+marketing/test/221,marketing,Business
+miscellaneous/test/171,miscellaneous,Other
+moral_scenarios/test/671,moral_scenarios,Humanities
+high_school_psychology/test/75,high_school_psychology,Social Sciences
+high_school_macroeconomics/test/98,high_school_macroeconomics,Social Sciences
+professional_law/test/630,professional_law,Humanities
+elementary_mathematics/test/279,elementary_mathematics,STEM
+miscellaneous/test/523,miscellaneous,Other
+virology/test/154,virology,Medical
+professional_law/test/958,professional_law,Humanities
+electrical_engineering/test/77,electrical_engineering,STEM
+virology/test/108,virology,Medical
+college_biology/test/101,college_biology,STEM
+professional_psychology/test/572,professional_psychology,Social Sciences
+high_school_chemistry/test/58,high_school_chemistry,STEM
+nutrition/test/204,nutrition,Medical
+virology/test/118,virology,Medical
+professional_law/test/1290,professional_law,Humanities
+jurisprudence/test/22,jurisprudence,Humanities
+high_school_european_history/test/64,high_school_european_history,Humanities
+moral_scenarios/test/377,moral_scenarios,Humanities
+high_school_statistics/test/39,high_school_statistics,STEM
+high_school_microeconomics/test/187,high_school_microeconomics,Social Sciences
+moral_scenarios/test/382,moral_scenarios,Humanities
+professional_psychology/test/62,professional_psychology,Social Sciences
+high_school_psychology/test/217,high_school_psychology,Social Sciences
+clinical_knowledge/test/184,clinical_knowledge,Medical
+nutrition/test/212,nutrition,Medical
+professional_law/test/667,professional_law,Humanities
+security_studies/test/208,security_studies,Social Sciences
+high_school_psychology/test/64,high_school_psychology,Social Sciences
+professional_psychology/test/224,professional_psychology,Social Sciences
+management/test/97,management,Business
+prehistory/test/110,prehistory,Humanities
+moral_disputes/test/141,moral_disputes,Humanities
+miscellaneous/test/57,miscellaneous,Other
+professional_accounting/test/229,professional_accounting,Business
+sociology/test/43,sociology,Social Sciences
+moral_scenarios/test/727,moral_scenarios,Humanities
+prehistory/test/218,prehistory,Humanities
+elementary_mathematics/test/111,elementary_mathematics,STEM
+high_school_macroeconomics/test/15,high_school_macroeconomics,Social Sciences
+miscellaneous/test/680,miscellaneous,Other
+sociology/test/170,sociology,Social Sciences
+college_mathematics/test/65,college_mathematics,STEM
+electrical_engineering/test/38,electrical_engineering,STEM
+conceptual_physics/test/177,conceptual_physics,STEM
+business_ethics/test/81,business_ethics,Business
+management/test/56,management,Business
+professional_law/test/1467,professional_law,Humanities
+high_school_psychology/test/173,high_school_psychology,Social Sciences
+security_studies/test/132,security_studies,Social Sciences
+human_aging/test/211,human_aging,Medical
+moral_disputes/test/215,moral_disputes,Humanities
+marketing/test/133,marketing,Business
+professional_psychology/test/463,professional_psychology,Social Sciences
+professional_law/test/887,professional_law,Humanities
+high_school_biology/test/216,high_school_biology,STEM
+clinical_knowledge/test/251,clinical_knowledge,Medical
+world_religions/test/32,world_religions,Humanities
+human_aging/test/69,human_aging,Medical
+miscellaneous/test/465,miscellaneous,Other
+miscellaneous/test/735,miscellaneous,Other

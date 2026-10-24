@@ -1,0 +1,11 @@
+{
+  "parser_version": "explicit-answer-v6",
+  "source_response_hashes": {
+    "generation_validation_responses.jsonl": "8099c7455296ff8b0e61113cc2c074ca0296d5d01ffb283f12364fc00141d9ce",
+    "threeway_responses.jsonl": "6718476e4cde2dfba45ec30242b20a3299d224598d2b5f81672a55040bff0265"
+  },
+  "bootstrap_draws": 10000,
+  "raw_responses_changed": false,
+  "gold_used_in_extraction": false,
+  "analysis_code_sha256": "6c0d39525177c3204899e25e35a17af6452af4ca3c41c92cee8e768f3dd26075"
+}
